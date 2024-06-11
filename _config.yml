@@ -28,7 +28,7 @@ twitter_username: raul-saiz
 github_username:  raul-saiz
 
 # Build settings
-theme: minima
+theme: jekyll-theme-Hacker
 plugins:
   - jekyll-feed
 
